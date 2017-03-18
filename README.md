@@ -3,7 +3,7 @@ Data mining and knowledge discovery from social media:
 
 Implementation data analysis methods on data collection from Twitter
 
-##About
+## About
 
 In this repository lives the source code of a try to
 - grabbing and storage tweets  from Twitter's streaming API
