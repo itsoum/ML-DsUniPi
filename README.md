@@ -5,13 +5,13 @@ Implementation data analysis methods on data collection from Twitter
 
 ## About
 
-In this repository lives the source code of a try to
-- grabbing and storage tweets  from Twitter's streaming API
+In this repository lives the source code of a try
+- grabbing and storage tweets from Twitter's streaming API
 - clustering any corpus of tweets (unsupervised)
-- exporting matters subject to these and
+- exporting the fundamental topics of them
 - counting the efficacy of my machine learning efforts.
 
-Also in code there exist a solution for the removing duplicates documents from collection (retweets problem).
+Also i developed a solution which remove duplicates decuments from corpus (retweets problem).
 
 This material constituted the implemented part of my Bachelor Dissertation.
 
