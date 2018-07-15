@@ -11,7 +11,7 @@ In this repository lives the source code of a try
 - exporting the fundamental topics of them
 - counting the efficacy of my machine learning efforts.
 
-Also i developed a method which remove duplicates documents from corpus (retweets problem).
+Also, I developed a method which remove duplicates documents from corpus (retweets problem).
 
 This material constituted the implemented part of my Bachelor Dissertation.
 
